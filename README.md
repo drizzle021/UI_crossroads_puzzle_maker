@@ -11,6 +11,8 @@ Using the puzzle maker:
 
 Don't try to save grids with tiles that are shorter than 2 pls
 
+Vertical and horizontal buttons dont do anything.. so don't bother
+
 
 ## Requirements
 The pygame libary is needed for running the maker.
