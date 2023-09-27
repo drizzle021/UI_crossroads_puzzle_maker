@@ -3,13 +3,19 @@ Helper tool for making crossroads puzzle with GUI. Exports color, position, size
 
 Using the puzzle maker:
 1. run the file
-2. select colors from left panel
+2. select colors from the panel on the right
 3. place tile with left click
 4. to remove placed tiles select the light grey on the very right of the panel in the second row of colors
 5. when done click save
 6. the JSON file should appear in the main folder
 
-Don't try to save grids with tiles that are shorter than 2 pls
+## Limitations
+- Don't try to save grids with tiles that are shorter than 2 pls
+- One "car" per color
+- grid needs to be in legal format for the game.. e.g. no diagonal tiles otherwise the JSON wont make sense of course
+
+
+Vertical and horizontal buttons dont do anything.. so don't bother
 
 
 ## Requirements
