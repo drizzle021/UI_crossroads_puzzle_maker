@@ -3,7 +3,7 @@ Helper tool for making crossroads puzzle with GUI. Exports color, position, size
 
 Using the puzzle maker:
 1. run the file
-2. select colors from left panel
+2. select colors from the panel on the right
 3. place tile with left click
 4. to remove placed tiles select the light grey on the very right of the panel in the second row of colors
 5. when done click save
