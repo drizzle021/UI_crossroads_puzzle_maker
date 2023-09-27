@@ -47,8 +47,8 @@ def drawBG():
     win.fill((150,150,150))
 
 def drawPanel():
-    pygame.draw.rect(win, (220, 220, 220), (SCR_WIDTH, 0, SIDE_MARGIN, SCR_HEIGHT+LOWER_MARGIN))
-    pygame.draw.rect(win, (220, 220, 220), (0, SCR_HEIGHT, SCR_WIDTH+SIDE_MARGIN, LOWER_MARGIN))
+    pygame.draw.rect(win, (255, 255, 255), (SCR_WIDTH, 0, SIDE_MARGIN, SCR_HEIGHT+LOWER_MARGIN))
+    pygame.draw.rect(win, (255, 255, 255), (0, SCR_HEIGHT, SCR_WIDTH+SIDE_MARGIN, LOWER_MARGIN))
 
 def switchToVertical():
     pass
