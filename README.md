@@ -12,7 +12,7 @@ Using the puzzle maker:
 ## Limitations
 - Don't try to save grids with tiles that are shorter than 2 pls
 - One "car" per color
-- grid needs to be in legal format for the game.. no diagonal tiles otherwise the JSON wont make sense of course
+- grid needs to be in legal format for the game.. e.g. no diagonal tiles otherwise the JSON wont make sense of course
 
 
 Vertical and horizontal buttons dont do anything.. so don't bother
