@@ -168,6 +168,7 @@ LOWER_MARGIN = 50
 SIDE_MARGIN = 150
 
 win = pygame.display.set_mode((SCR_WIDTH+SIDE_MARGIN,SCR_HEIGHT+LOWER_MARGIN))
+pygame.display.set_caption("Crossroad Puzzle Maker")
 
 run = True
 
